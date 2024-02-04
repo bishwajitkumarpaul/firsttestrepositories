@@ -1,0 +1,2 @@
+const num1 = prompt("Enter a first positive number : ")
+const num2 = prompt("Enter a second positive number : ")
